@@ -50,7 +50,7 @@ amt=bankintf.balance(amt);
 System.out.println("Balance:"+amt); 
 break; 
 } 
-}while(ch<4); 
+}while(a<4); 
 } 
 catch(Exception e) 
 { 
